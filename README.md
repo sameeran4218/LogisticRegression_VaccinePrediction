@@ -20,7 +20,7 @@ one for seasonal_vaccine.
 
 ## Data Visualization:
 - I used seaborn to visually identify the columns containing the most amount of missing values , using the heatmap feature
-- [heatmap](https://github.com/sameeran4218/LogisticRegression_vaccineprediction/blob/main/data/heatmap.jpg)
+- [heatmap](data/seaborn.jpg)
 
 ## Evaluation:
 - I used matplotlib to draw the AUC-ROC curve for both the labels 
