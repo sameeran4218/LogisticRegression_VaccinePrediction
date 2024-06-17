@@ -18,10 +18,6 @@ one for seasonal_vaccine.
 - We had to do this for both the training data(in hackathon.ipynb) and for the testing data (in hackathon-clean.ipynb)
 - ![missing values](data/missing-values.jpg)
 
-## Data Visualization:
-- I used seaborn to visually identify the columns containing the most amount of missing values , using the heatmap feature
-- [seaborn](data/heatmap.jpg)
-
 ## Evaluation:
 - I used matplotlib to draw the AUC-ROC curve for both the labels 
 - It helped us calculate the auc-roc score for the model using the diagram 
